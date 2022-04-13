@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ivan-Bua
+- 👀 I’m interested in Work and Learn
+- 🌱 I’m currently learning Backend - Node
+- 💞️ I’m looking to collaborate on Everywhere
+- 📫 How to reach me ? vaan8892@gmail.com
