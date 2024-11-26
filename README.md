@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ivan-Bua
 - 👀 I’m interested in became freeLancer
-- 🌱 I’m currently learning Openshift - K8S - X-Road
+- 🌱 I’m currently learning Openshift - SRE - DevOps
 - 💞️ I’m looking to collaborate on ALL
 - 📫 How to reach me +54 
 
